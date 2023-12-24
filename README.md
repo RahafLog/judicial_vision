@@ -33,4 +33,6 @@ Explore the "Similar Cases" tab to discover the top three legal cases that close
 
 The "Removing Names" tab showcases the performance of our fine-tuning model. It removes Saudi names and organizations from legal cases, to save privacy in legal cases. 
 
+### TEAM JUDICIAL VISION
+
 
