@@ -16,5 +16,18 @@ Leveraging the Large Language Model (LLM) and Langchain technologies, we have su
 - Onboarding Assistance
 - Use of Technology in legal cases
 
+## Website Structure:
+
+1- Ask Your Question (ChatBot): 
+
+Interact with our chatbot to get accurate and prompt responses to your legal queries. This new function aims to provide a user-friendly interface for easy communication.
+
+2- Similar Cases:
+
+Explore the "Similar Cases" tab to discover the top three legal cases that closely match your input. This feature enhances user experience by offering relevant insights based on similar scenarios.
+
+3- Removing Names:
+
+The "Removing Names" tab showcases the performance of our fine-tuning model. It removes Saudi names and organizations from legal cases, to save privacy in legal cases. 
 
 
