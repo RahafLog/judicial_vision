@@ -33,6 +33,12 @@ Explore the "Similar Cases" tab to discover the top three legal cases that close
 
 The "Removing Names" tab showcases the performance of our fine-tuning model. It removes Saudi names and organizations from legal cases, to save privacy in legal cases. 
 
+## File Descriptions
+
+app.ipynb: this file contains the code of the ChatBot and other Taps.
+
+output: contains the demo of the chat. 
+
 ###  JUDICIAL VISION TEAM
 
 
