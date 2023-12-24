@@ -1,4 +1,7 @@
-# Judicial Assistant 
+<p align="center">
+  <img src="img.png"
+</p>
+
 
 This repository houses the codebase for a ChatBot designed to handle Saudi legal cases. the ChatBot operates in Arabic and is powered by Large Language Models (LLM) and LangChain technology.
 
